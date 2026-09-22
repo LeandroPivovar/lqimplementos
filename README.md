@@ -2,6 +2,10 @@
 
 Site institucional estático da LQI Implementos, publicado com Sites.
 
+## Deploy na Vercel
+
+Importe o repositório `LeandroPivovar/lqimplementos` na Vercel. O arquivo `vercel.json` configura o projeto sem framework ou etapa de build e publica os arquivos estáticos da pasta `dist`.
+
 ## Prévia local
 
 ```sh
